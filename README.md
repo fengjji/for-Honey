@@ -1,9 +1,7 @@
 <h1 align = "center"> For Ru </h1>
 
-[toc]
-
-### Foreword
-&ensp;&ensp;This projects is that He write a software(memo) for his honey.**He want do something special for her**.
+## *Foreword*
+&ensp;&ensp;***This projects is that He write a software(memo) for her***.***He want do something special for her***.
 
 
 * We keep this love in a photograph
@@ -22,16 +20,16 @@
 
 ---
 
-### Preview
+## *Preview*
 ![](./images/ru.jpg)
 
-### Tec
+### *Tec*
 * c++11,14 New Features
 * qt + udp + ...
 * ...
 
 ---
 
-### Tip
+## *Tip*
 * I may not provide some images,so you can use yourself,just ensure correct file path.
 * for ui_XXX.h, you can ues your compiler to compile xxx.ui file to  get it. 
