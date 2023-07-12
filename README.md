@@ -23,7 +23,7 @@
 ## *Preview*
 ![](./images/ru.jpg)
 
-### *Tec*
+## *Tec*
 * c++11,14 New Features
 * qt + udp + ...
 * ...
