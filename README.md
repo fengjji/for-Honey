@@ -33,4 +33,5 @@
 ---
 
 ### Tip
-I may not provide some images,so you can use yourself,just ensure correct file path.
+* I may not provide some images,so you can use yourself,just ensure correct file path.
+* for ui_XXX.h, you can ues your compiler to compile xxx.ui file to  get it. 
