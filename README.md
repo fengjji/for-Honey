@@ -1,2 +1,36 @@
-# for-Honey
-他给她写的备忘录(软件）
+<h1 align = "center"> For Ru </h1>
+
+[toc]
+
+### Foreword
+&ensp;&ensp;This projects is that He write a software(memo) for his honey.**He want do something special for her**.
+
+
+* We keep this love in a photograph
+ 
+  * We made these memories for ourselves
+ 
+    * Where our eyes are never closing
+  
+      * Our hearts were never broken
+ 
+        * And time‘s forever frozen still
+ 
+          * So you can keep me
+ 
+            * Inside the pocket of your ripped jeans
+
+---
+
+### Preview
+![](./images/ru.jpg)
+
+### Tec
+* c++11,14 New Features
+* qt + udp + ...
+* ...
+
+---
+
+### Tip
+I may not provide some images,so you can use yourself,just ensure correct file path.
